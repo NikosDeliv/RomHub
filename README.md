@@ -1,10 +1,14 @@
-# RomHub
+# RetroHub
 
-A ROM library manager for organizing and launching retro games with their respective emulators. ( Ill add  images soon)
+A ROM library manager for organizing and launching retro games with their respective emulators. I do not provide the roms.
+
+<img width="921" height="637" alt="RetroHubIcon" src="https://github.com/user-attachments/assets/02879172-b262-49d8-8e60-5fc3a015f70c" />
+<img width="579" height="436" alt="RetroHubAddGame" src="https://github.com/user-attachments/assets/4b20b62f-f086-4b08-b422-cf2a0eb314b1" />
+
 
 ## What It Does
 
-RomHub acts as a central hub for your ROM collection. Add your games once with their emulator paths, then launch them with a double-click. No more hunting through folders to find the right ROM or remembering which emulator to use.
+RetroHub acts as a central hub for your ROM collection. Add your games once with their emulator paths, then launch them with a double-click. No more hunting through folders to find the right ROM or remembering which emulator to use.
 
 ## Features
 
